@@ -7,7 +7,7 @@ return [
         'test.dfasfd.com' => 'test',
     ],
     'console' => [
-        'DESKTOP-85IQ5R9:/D:\wamp64\www\nanosi.local' => 'dev',
+        'ubuntu16://var/www/yii' => 'prod',
         'orangepizero://var/www/nanosi-backend' => 'prod',
         'Dom2://var/www/nanosi-backend' => 'prod',
     ],
