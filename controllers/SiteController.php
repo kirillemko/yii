@@ -18,6 +18,7 @@ class SiteController extends Controller
 
     public function actionIndex()
     {
+        print_r(Users::findOne(1));
         return 1;
     }
 
